@@ -1,3 +1,6 @@
 [submodule "CSA/CSA_hw"]
 	path = CSA/CSA_hw
 	url = https://github.com/drasolo/CSA_hw.git
+[submodule "WT/WT_project"]
+	path = WT/WT_project
+	url = https://github.com/drasolo/WT_project.git
