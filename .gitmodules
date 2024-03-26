@@ -10,3 +10,6 @@
 [submodule "DBMS"]
 	path = DBMS
 	url = https://github.com/drasolo/DBMS_project.git
+[submodule "OOP"]
+	path = OOP
+	url = https://github.com/drasolo/OOP_hw.git
