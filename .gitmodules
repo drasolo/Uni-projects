@@ -16,3 +16,6 @@
 [submodule "DB"]
 	path = DB
 	url = https://github.com/drasolo/DB_project.git
+[submodule "FAL"]
+	path = FAL
+	url = https://github.com/drasolo/FAL_hw.git
