@@ -4,3 +4,6 @@
 [submodule "WT/WT_project"]
 	path = WT/WT_project
 	url = https://github.com/drasolo/WT_project.git
+[submodule "SO"]
+	path = SO
+	url = https://github.com/drasolo/OS_project.git
