@@ -7,3 +7,6 @@
 [submodule "SO"]
 	path = SO
 	url = https://github.com/drasolo/OS_project.git
+[submodule "DBMS"]
+	path = DBMS
+	url = https://github.com/drasolo/DBMS_project.git
