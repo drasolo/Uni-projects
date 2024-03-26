@@ -13,3 +13,6 @@
 [submodule "OOP"]
 	path = OOP
 	url = https://github.com/drasolo/OOP_hw.git
+[submodule "DB"]
+	path = DB
+	url = https://github.com/drasolo/DB_project.git
