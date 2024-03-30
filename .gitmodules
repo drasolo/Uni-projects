@@ -10,3 +10,6 @@
 [submodule "SGBD/Open-Discution-Platfrom-Database"]
 	path = SGBD/Open-Discution-Platfrom-Database
 	url = .https://github.com/drasolo/DBMS_project.git
+[submodule "POO/OOP_hw"]
+	path = POO/OOP_hw
+	url = https://github.com/drasolo/OOP_hw.git
