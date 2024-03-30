@@ -7,3 +7,6 @@
 [submodule "OS/MY_shell"]
 	path = OS/MY_shell
 	url = https://github.com/drasolo/OS_project.git
+[submodule "SGBD/Open-Discution-Platfrom-Database"]
+	path = SGBD/Open-Discution-Platfrom-Database
+	url = .https://github.com/drasolo/DBMS_project.git
