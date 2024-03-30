@@ -4,21 +4,6 @@
 [submodule "WT/WT_project"]
 	path = WT/WT_project
 	url = https://github.com/drasolo/WT_project.git
-[submodule "SO"]
-	path = SO
-	url = https://github.com/drasolo/OS_project.git
-[submodule "DBMS"]
-	path = DBMS
-	url = https://github.com/drasolo/DBMS_project.git
-[submodule "OOP"]
-	path = OOP
-	url = https://github.com/drasolo/OOP_hw.git
-[submodule "DB"]
-	path = DB
-	url = https://github.com/drasolo/DB_project.git
-[submodule "FAL"]
-	path = FAL
-	url = https://github.com/drasolo/FAL_hw.git
 [submodule "OS/MY_shell"]
 	path = OS/MY_shell
 	url = https://github.com/drasolo/OS_project.git
