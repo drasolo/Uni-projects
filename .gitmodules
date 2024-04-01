@@ -19,3 +19,6 @@
 [submodule "BD/Hospital-Database"]
 	path = BD/Hospital-Database
 	url = https://github.com/drasolo/DB_project.git
+[submodule "CSA/Wordle"]
+	path = CSA/Wordle
+	url = https://github.com/drasolo/CSA_Project.git
